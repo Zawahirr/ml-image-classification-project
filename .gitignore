@@ -1,0 +1,7 @@
+__pycche__/
+*.pyc
+.env
+venv/
+data/
+outputs/saved_models/
+.DSS_Store
