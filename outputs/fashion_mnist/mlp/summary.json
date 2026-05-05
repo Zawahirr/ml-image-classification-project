@@ -1,0 +1,10 @@
+{
+  "dataset": "Fashion-MNIST",
+  "model": "mlp",
+  "train_loss": 0.24703782120898918,
+  "train_accuracy": 0.9092592592592592,
+  "val_loss": 0.31130446298917136,
+  "val_accuracy": 0.8856666666666667,
+  "test_loss": 0.3326525285243988,
+  "test_accuracy": 0.8814
+}

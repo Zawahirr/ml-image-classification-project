@@ -1,0 +1,10 @@
+{
+  "dataset": "Fashion-MNIST",
+  "model": "lenet",
+  "train_loss": 0.2583329759262226,
+  "train_accuracy": 0.9045740740740741,
+  "val_loss": 0.3051982408364614,
+  "val_accuracy": 0.8906666666666667,
+  "test_loss": 0.32220858793258667,
+  "test_accuracy": 0.8799
+}

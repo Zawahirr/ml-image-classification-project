@@ -1,0 +1,10 @@
+{
+  "dataset": "Fashion-MNIST",
+  "model": "simple_cnn",
+  "train_loss": 0.16384430068069034,
+  "train_accuracy": 0.9400740740740741,
+  "val_loss": 0.2248474432428678,
+  "val_accuracy": 0.9176666666666666,
+  "test_loss": 0.24095732901096345,
+  "test_accuracy": 0.9135
+}
