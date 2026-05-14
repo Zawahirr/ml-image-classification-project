@@ -1,0 +1,10 @@
+{
+  "dataset": "CIFAR-10",
+  "model": "custom_cnn",
+  "train_loss": 0.5138492475668589,
+  "train_accuracy": 0.8241555555555555,
+  "val_loss": 0.661621516418457,
+  "val_accuracy": 0.7642,
+  "test_loss": 0.6681784489631653,
+  "test_accuracy": 0.7681
+}

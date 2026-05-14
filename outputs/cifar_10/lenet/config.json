@@ -1,0 +1,21 @@
+{
+  "dataset": "cifar10",
+  "model": "lenet",
+  "epochs": 10,
+  "batch_size": 256,
+  "learning_rate": 0.001,
+  "validation_split": 0.1,
+  "data_dir": "./data",
+  "output_dir": "./outputs",
+  "num_workers": 0,
+  "seed": 42,
+  "cpu": true,
+  "resolved_dataset_name": "CIFAR-10",
+  "input_shape": [
+    3,
+    32,
+    32
+  ],
+  "num_classes": 10,
+  "device": "cpu"
+}

@@ -1,0 +1,10 @@
+{
+  "dataset": "CIFAR-10",
+  "model": "lenet",
+  "train_loss": 0.9748119427575005,
+  "train_accuracy": 0.6588888888888889,
+  "val_loss": 1.206645499229431,
+  "val_accuracy": 0.5742,
+  "test_loss": 1.2020897773742676,
+  "test_accuracy": 0.5712
+}

@@ -1,0 +1,10 @@
+{
+  "dataset": "CIFAR-10",
+  "model": "mlp",
+  "train_loss": 1.0611786244922214,
+  "train_accuracy": 0.6300888888888889,
+  "val_loss": 1.3309777925491333,
+  "val_accuracy": 0.5366,
+  "test_loss": 1.3308435693740845,
+  "test_accuracy": 0.5324
+}
